@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Vihan\\vihancsharp\\vihancsharp\\helloworld\\helloworld.csproj": {}
+    "D:\\Code\\Vivek\\vihandalvi\\vihancsharp\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Vihan\\vihancsharp\\vihancsharp\\helloworld\\helloworld.csproj": {
+    "D:\\Code\\Vivek\\vihandalvi\\vihancsharp\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Vihan\\vihancsharp\\vihancsharp\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "D:\\Code\\Vivek\\vihandalvi\\vihancsharp\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "D:\\Code\\Vihan\\vihancsharp\\vihancsharp\\helloworld\\helloworld.csproj",
+        "projectPath": "D:\\Code\\Vivek\\vihandalvi\\vihancsharp\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\vivek_vfwegus\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Vihan\\vihancsharp\\vihancsharp\\helloworld\\obj\\",
+        "outputPath": "D:\\Code\\Vivek\\vihandalvi\\vihancsharp\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
